@@ -1,0 +1,2 @@
+# odoo
+CodeMagine Odoo Projects 
